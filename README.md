@@ -26,6 +26,4 @@ A **hotel management dashboard** that allows **managing users, cabins, and reser
 
 ![Dashboard Screenshot](./screenshot.png)
 
-### 🐝 License
 
-This project is licensed under the **MIT** license.
